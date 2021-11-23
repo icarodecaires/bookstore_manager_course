@@ -9,5 +9,5 @@ public class BookstoremanagerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BookstoremanagerApplication.class, args);
 	}
-	//test
+
 }
